@@ -1,0 +1,3 @@
+[submodule "recedo-receipt-compiler"]
+	path = recedo-receipt-compiler
+	url = https://github.com/isamu-isozaki/recedo-receipt-compiler.git
